@@ -2,6 +2,7 @@
 build
 node_modules
 package-lock.json
+.next
 
 # Cruft
 .DS_Store
